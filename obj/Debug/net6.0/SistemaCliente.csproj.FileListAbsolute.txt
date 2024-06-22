@@ -1,0 +1,15 @@
+C:\Users\davi\Desktop\Nova pasta (3)\Sistema de controle de clientes\SistemaCliente\bin\Debug\net6.0\SistemaCliente.exe
+C:\Users\davi\Desktop\Nova pasta (3)\Sistema de controle de clientes\SistemaCliente\bin\Debug\net6.0\SistemaCliente.deps.json
+C:\Users\davi\Desktop\Nova pasta (3)\Sistema de controle de clientes\SistemaCliente\bin\Debug\net6.0\SistemaCliente.runtimeconfig.json
+C:\Users\davi\Desktop\Nova pasta (3)\Sistema de controle de clientes\SistemaCliente\bin\Debug\net6.0\SistemaCliente.dll
+C:\Users\davi\Desktop\Nova pasta (3)\Sistema de controle de clientes\SistemaCliente\bin\Debug\net6.0\ref\SistemaCliente.dll
+C:\Users\davi\Desktop\Nova pasta (3)\Sistema de controle de clientes\SistemaCliente\bin\Debug\net6.0\SistemaCliente.pdb
+C:\Users\davi\Desktop\Nova pasta (3)\Sistema de controle de clientes\SistemaCliente\obj\Debug\net6.0\SistemaCliente.csproj.AssemblyReference.cache
+C:\Users\davi\Desktop\Nova pasta (3)\Sistema de controle de clientes\SistemaCliente\obj\Debug\net6.0\SistemaCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davi\Desktop\Nova pasta (3)\Sistema de controle de clientes\SistemaCliente\obj\Debug\net6.0\SistemaCliente.AssemblyInfoInputs.cache
+C:\Users\davi\Desktop\Nova pasta (3)\Sistema de controle de clientes\SistemaCliente\obj\Debug\net6.0\SistemaCliente.AssemblyInfo.cs
+C:\Users\davi\Desktop\Nova pasta (3)\Sistema de controle de clientes\SistemaCliente\obj\Debug\net6.0\SistemaCliente.csproj.CoreCompileInputs.cache
+C:\Users\davi\Desktop\Nova pasta (3)\Sistema de controle de clientes\SistemaCliente\obj\Debug\net6.0\SistemaCliente.dll
+C:\Users\davi\Desktop\Nova pasta (3)\Sistema de controle de clientes\SistemaCliente\obj\Debug\net6.0\ref\SistemaCliente.dll
+C:\Users\davi\Desktop\Nova pasta (3)\Sistema de controle de clientes\SistemaCliente\obj\Debug\net6.0\SistemaCliente.pdb
+C:\Users\davi\Desktop\Nova pasta (3)\Sistema de controle de clientes\SistemaCliente\obj\Debug\net6.0\SistemaCliente.genruntimeconfig.cache
